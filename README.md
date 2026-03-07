@@ -13,14 +13,14 @@ The tests open Google and Facebook, print their page titles, and generate an HTM
   pip install selenium webdriver-manager html-testRunner
   ```
 ## Project Structur
-
+```
 .
 ├── test.py        # Main test script
 ├── reports/       # HTML reports generated after test runs
 └── README.md      # Project documentation
 
 ##  Running the Test
-
+```
 ```
 python test.py
 ```
