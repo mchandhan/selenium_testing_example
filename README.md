@@ -51,7 +51,7 @@ An HTML file will be created in the reports/ folder showing test results in a us
 
 ## Customization
 
-- To run Chrome with a visible window, remove the --headless option in Options().
-- To skip tests, use the @unittest.skip decorator.
-- To add more sites, create additional test methods starting with test_.
+- To run Chrome with a visible window, remove the ``` --headless ```option in Options().
+- To skip tests, use the ``` @unittest.skip ``` decorator.
+- To add more sites, create additional test methods starting with ``` test_. ```
 
